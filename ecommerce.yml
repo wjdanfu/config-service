@@ -8,3 +8,6 @@ spring:
     driver-class-name: org.h2.Driver
     username: sa
     password: "{cipher}b1d7122f22ab80ea2cf2daff5bf126afb8f3ffb6f94ea7881cf75130d8eeb97a"
+
+gateway:
+  ip: 172.18.0.5
